@@ -24,7 +24,9 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
 - 🎓 B.Tech Data Science (2026) — Swami Vivekananda University  
 - 📊 Aspiring Data Analyst  
@@ -32,6 +34,13 @@
 - ⚡ Love building data-driven solutions  
 - 🎯 Looking for Data Analyst / BI roles  
 - 📍 Haldia, India  
+
+</td>
+<td width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
