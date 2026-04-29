@@ -1,23 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siladitya Jana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Data+Visualization+%7C+DAX;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Data+Visualization+%7C+DAX;Transforming+Data+into+Insights" />
 </p>
 
+<!-- 🔥 CLEAN PROFESSIONAL HEADER -->
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/siladityajana-aa4048250">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:siladitya.jana100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=220&section=header&text=Siladitya%20Jana&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6A5ACD,100:0F2027&height=220&section=header&text=Siladitya%20Jana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
@@ -28,103 +17,122 @@
 <tr>
 <td width="60%">
 
-- 🎓 B.Tech Data Science (2026) — Swami Vivekananda University  
-- 📊 Aspiring Data Analyst  
-- 💡 Skilled in Power BI, SQL, Python & DAX  
-- ⚡ Love building data-driven solutions  
-- 🎯 Looking for Data Analyst / BI roles  
+- 🎓 **B.Tech Data Science (2026)** — Swami Vivekananda University  
+- 📊 **Aspiring Data Analyst**  
+- 💡 Skilled in **Power BI, SQL, Python & DAX**  
+- ⚡ Passionate about **data-driven solutions**  
+- 🎯 Seeking **Data Analyst / BI roles**  
 - 📍 Haldia, India  
 
 </td>
 <td width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 📊 Data Analysis & Visualization
-- Power BI  
-- Excel  
-- DAX  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,html,css&theme=dark" />
+</p>
 
-### 💻 Programming
-- Python  
-
-### 🗄️ Database
-- MySQL  
-
-### ⚙️ Tools & Technologies
-- Data Cleaning  
-- Dashboard Development  
-- ETL  
-
-### 🌐 Web Basics
-- HTML  
-- CSS  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Business Sales Performance Analysis
-- Analyzed revenue trends, top products & regional performance  
-- Built interactive Power BI dashboards  
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 Customer Retention & Churn Analysis
-- Identified at-risk customers  
-- Created KPI-driven retention dashboard  
+### 📊 Sales Dashboard  
+✔ Revenue insights  
+✔ Power BI dashboards  
 
-### 🔹 Marketing Funnel & Conversion Analysis
-- Tracked full funnel performance  
-- Measured drop-offs & campaign effectiveness  
+</td>
+<td width="50%">
 
-### 🔹 E-Learning Website
-- Built responsive UI using HTML & CSS  
+### 📉 Churn Analysis  
+✔ Customer retention  
+✔ KPI tracking  
 
-### 🔹 Student Management System
-- Designed SQL-based database system  
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Funnel Analysis  
+✔ Conversion tracking  
+✔ Drop-off insights  
+
+</td>
+<td width="50%">
+
+### 🖥️ SQL System  
+✔ Database design  
+✔ Query optimization  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siladityaa-csv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siladityaa-csv&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siladityaa-csv&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 </p>
 
 ---
 
-## 📜 Certifications
+## 🏆 Achievements
 
-- Python Programming  
-- MySQL  
-- Cyber Suraksha  
-- Artificial Intelligence: Knowledge Representation & Reasoning  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siladityaa-csv&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siladityaa-csv&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/siladityaa-csv">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/siladityajana-aa4048250">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=siladityaa-csv&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8DD6,50:8E44AD,100:667eea&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:6A5ACD,100:00F5FF&height=120&section=footer"/>
 </p>
