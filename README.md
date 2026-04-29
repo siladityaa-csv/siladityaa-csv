@@ -22,15 +22,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech in Data Science (2026) — Swami Vivekananda University  
-- 📊 Aspiring **Data Analyst**  
-- 💡 Skilled in **Power BI, SQL, Python & DAX**  
-- 🧠 Strong in **Data-driven problem solving & analytics**  
-- 🎯 Looking for **Data Analyst / BI roles**  
+- 🎓 B.Tech Data Science (2026) — Swami Vivekananda University  
+- 📊 Aspiring Data Analyst  
+- 💡 Skilled in Power BI, SQL, Python & DAX  
+- ⚡ Love building data-driven solutions  
+- 🎯 Looking for Data Analyst / BI roles  
 - 📍 Haldia, India  
 
 ---
@@ -51,7 +51,7 @@
 ### ⚙️ Tools & Technologies
 - Data Cleaning  
 - Dashboard Development  
-- ETL Concepts  
+- ETL  
 
 ### 🌐 Web Basics
 - HTML  
@@ -67,17 +67,17 @@
 
 ### 🔹 Customer Retention & Churn Analysis
 - Identified at-risk customers  
-- Built retention dashboards with KPIs  
+- Created KPI-driven retention dashboard  
 
 ### 🔹 Marketing Funnel & Conversion Analysis
-- Tracked funnel from lead to conversion  
-- Measured campaign performance  
+- Tracked full funnel performance  
+- Measured drop-offs & campaign effectiveness  
 
 ### 🔹 E-Learning Website
-- Developed responsive UI using HTML & CSS  
+- Built responsive UI using HTML & CSS  
 
 ### 🔹 Student Management System
-- Designed database system using SQL  
+- Designed SQL-based database system  
 
 ---
 
@@ -95,7 +95,7 @@
 - Python Programming  
 - MySQL  
 - Cyber Suraksha  
-- AI: Knowledge Representation & Reasoning  
+- Artificial Intelligence: Knowledge Representation & Reasoning  
 
 ---
 
